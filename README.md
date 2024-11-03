@@ -1,7 +1,7 @@
 # 💫 About Me:
 
 🌟 **Data Science & Machine Learning Enthusiast** | IIT Madras & LNCTS  
-🎓 **Academic Background**: BS in Data Science (IIT Madras), BTech in Computer Science (LNCT&S)  
+🎓 **Academic Background**: BS in Data Science & Applications (IIT Madras), B.Tech in Computer Science (LNCTS)  
 💼 **Projects**:
   - **InSync**: Full-stack influencer engagement platform with role-based access, automated reporting, and enhanced API caching.
   - **CrimeCast**: Machine learning model for crime category prediction using extensive feature engineering, achieving an kaggle score of 0.95160.
