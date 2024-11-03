@@ -1,5 +1,18 @@
 # 💫 About Me:
-A tech geek focusing on Data Science and Machine Learning<br>I’m looking to collaborate on innovative project ideas.<br>I’m currently getting more hands with DSA
+
+🌟 **Data Science & Machine Learning Enthusiast** | IIT Madras & LNCTS  
+🎓 **Academic Background**: BS in Data Science (IIT Madras), BTech in Computer Science (LNCT&S)  
+💼 **Projects**:
+  - **InSync**: Full-stack influencer engagement platform with role-based access, automated reporting, and enhanced API caching.
+  - **CrimeCast**: Machine learning model for crime category prediction using extensive feature engineering, achieving an kaggle score of 0.95160.
+  - **MusicPy**: Multi-user music streaming platform supporting CRUD operations for playlists and content management.
+  - **BDM**: Business Data Management project to analyze historical data and provide actionable insights and recommendations for business growth.
+
+🤝 **Open to Collaborations**: Let’s work together on innovative projects that leverage data-driven insights.
+🔍 Currently honing my skills in Data Structures and Algorithms, Machine Learning, and Deep Learning for deeper technical expertise.  
+
+🏆 **Achievements**: Qualified GATE in DS & AI, Python Coding Challenge Top 3
+📜 **Certifications**: Diplomas in Programming and Data Science (IIT Madras), Data Analysis & Visualization (IBM) 
 
 
 ## 🌐 Socials:
