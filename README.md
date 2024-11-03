@@ -8,10 +8,10 @@
   - **MusicPy**: Multi-user music streaming platform supporting CRUD operations for playlists and content management.
   - **BDM**: Business Data Management project to analyze historical data and provide actionable insights and recommendations for business growth.
 
-🤝 **Open to Collaborations**: Let’s work together on innovative projects that leverage data-driven insights.
+🤝 **Open to Collaborations**: Let’s work together on innovative projects that leverage data-driven insights.<br>
 🔍 Currently honing my skills in Data Structures and Algorithms, Machine Learning, and Deep Learning for deeper technical expertise.  
 
-🏆 **Achievements**: Qualified GATE in DS & AI, Python Coding Challenge Top 3
+🏆 **Achievements**: Qualified GATE in DS & AI, Python Coding Challenge Top 3<br>
 📜 **Certifications**: Diplomas in Programming and Data Science (IIT Madras), Data Analysis & Visualization (IBM) 
 
 
