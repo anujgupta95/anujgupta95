@@ -1,22 +1,22 @@
 {
   "username": "anujgupta95",
-  "generated_at": "2026-10-09T13:17:01Z",
+  "generated_at": "2026-10-10T12:31:52Z",
   "range": {
     "start": "2025-10-05",
+    "end": "2026-10-10"
+  },
+  "total_contributions": 1035,
+  "active_days": 218,
+  "avg_per_active_day": 4.7,
+  "current_streak": {
+    "length": 68,
+    "start": "2026-08-03",
     "end": "2026-10-09"
   },
-  "total_contributions": 1034,
-  "active_days": 217,
-  "avg_per_active_day": 4.8,
-  "current_streak": {
-    "length": 67,
-    "start": "2026-08-03",
-    "end": "2026-10-08"
-  },
   "longest_streak": {
-    "length": 67,
+    "length": 68,
     "start": "2026-08-03",
-    "end": "2026-10-08"
+    "end": "2026-10-09"
   },
   "best_day": {
     "date": "2026-08-14",
@@ -73,7 +73,7 @@
     },
     {
       "month": "2026-10",
-      "total": 37
+      "total": 38
     }
   ],
   "days": [
@@ -1555,6 +1555,10 @@
     },
     {
       "date": "2026-10-09",
+      "count": 1
+    },
+    {
+      "date": "2026-10-10",
       "count": 0
     }
   ]
